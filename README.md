@@ -1,2 +1,2 @@
-# RAKA
-This is the code and dataset in AAAI'20 paper-RAKA:Co-training of Relationships and Attributes for Cross-lingual Knowledge Alignment.
+# JarKA
+This is the code and dataset in PAKDD'20 paper: "Jointly Modelling Attribute Interactions and Relationships for Cross-lingual Knowledge Alignment".
